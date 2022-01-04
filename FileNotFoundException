@@ -35,4 +35,3 @@ UnityEngine.UIElements.BaseVisualElementPanel.SendEvent (UnityEngine.UIElements.
 UnityEngine.UIElements.UIElementsUtility.DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel panel) (at <b6a7e1825c0b45d3b0729282e86cc687>:0)
 UnityEngine.UIElements.UIElementsUtility.ProcessEvent (System.Int32 instanceID, System.IntPtr nativeEventPtr) (at <b6a7e1825c0b45d3b0729282e86cc687>:0)
 UnityEngine.GUIUtility.ProcessEvent (System.Int32 instanceID, System.IntPtr nativeEventPtr) (at <344226e341014466b33f0c0fa34fcef5>:0)
-
